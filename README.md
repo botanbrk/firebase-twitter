@@ -1,2 +1,8 @@
-# firebase-twitter
-firebase-twitter-project-react
+# Kütüphaneler
+
+- firebase
+- react-router-dom
+- react-icons
+- moment
+- react-toastify
+- tailwind
